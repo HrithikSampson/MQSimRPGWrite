@@ -1,8 +1,9 @@
-##I have made changes in MQSim Simulator to implement
-###Process Variation Aware Read Performance
-###Improvement for LDPC-Based NAND
-###Flash Memory
-###Qiao Li , Liang Shi , Yejia Di , Congming Gao , Cheng Ji , Yu Liang, and Chun Jason Xue paper
+I have made changes in MQSim Simulator to implement
+Process Variation Aware Read Performance
+Improvement for LDPC-Based NAND
+Flash Memory
+by
+Qiao Li , Liang Shi , Yejia Di , Congming Gao , Cheng Ji , Yu Liang, and Chun Jason Xue paper
 
 # MQSim: A Simulator for Modern NVMe and SATA SSDs
 
